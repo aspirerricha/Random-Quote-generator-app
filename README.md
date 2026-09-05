@@ -1,6 +1,6 @@
 # Random Quote Generator 
 
-This is a Flutter app that I built to generate random quotes.I genuinely love reading quotes and inspires me a lot.
+I've always loved collecting quotes that stick with me , this Flutter app pulls a random quote from a live quotes API every time you tap the button.
 
 ## Overview
 
