@@ -41,10 +41,8 @@ a live app pulling from a public quotes API.
    ```
 
 ## Screenshot
+This is how it looks when run on my android phone:
 
-_Add your screenshot here before uploading to GitHub._
-
-```
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/1d4fc0c9-0ca2-4bec-80f9-aaf8e11433c4" />
 
-```
+
